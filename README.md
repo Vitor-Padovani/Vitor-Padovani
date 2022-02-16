@@ -1,4 +1,9 @@
-### Hi there 👋
+### Opa eae 👋
+
+-> Me chamo Vitor Azevedo Padovani
+-> Completei CS50x 2020 de Cambridge
+-> Possuo nível intermediário de inglês
+-> Me virando pra aprender a arte da programação
 
 <!--
 **Vitor-Padovani/Vitor-Padovani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
