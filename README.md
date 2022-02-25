@@ -1,7 +1,7 @@
 ### Opa eae 👋
 
 - Me chamo Vitor Azevedo Padovani
-- Cursando Ciência da Computação na UEM
+- Estou cursando Ciência da Computação na UEM
 - Possuo nível intermediário de inglês
 - Me virando pra aprender a arte da programação
 
