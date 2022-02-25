@@ -1,7 +1,7 @@
 ### Opa eae 👋
 
 - Me chamo Vitor Azevedo Padovani
-- Completei CS50x 2020 de Cambridge
+- Cursando Ciência da Computação na UEM
 - Possuo nível intermediário de inglês
 - Me virando pra aprender a arte da programação
 
