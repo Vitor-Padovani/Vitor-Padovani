@@ -1,9 +1,11 @@
 ### Opa eae 👋
 
-- Me chamo Vitor Azevedo Padovani
-- Estou cursando Ciência da Computação na UEM
-- Possuo nível intermediário de inglês
-- Me virando pra aprender a arte da programação
+- 👨‍💻 Me chamo Vitor Azevedo Padovani
+- 🎓 Estou cursando Ciência da Computação na UEM
+- 📚 Possuo nível intermediário de inglês
+- 🎨 Me virando pra aprender a arte da programação
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor-Padovani&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Vitor-Padovani/Vitor-Padovani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
