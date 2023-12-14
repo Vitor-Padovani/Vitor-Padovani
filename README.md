@@ -2,7 +2,7 @@
 
 - 👨‍💻 Me chamo Vitor Azevedo Padovani
 - 🎓 Estou cursando Ciência da Computação na UEM
-- 📚 Possuo nível intermediário de inglês
+- 📚 Possuo nível avançado de inglês
 - 🎨 Me virando pra aprender a arte da programação
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor-Padovani&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
