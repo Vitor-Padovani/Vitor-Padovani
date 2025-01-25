@@ -4,7 +4,7 @@
 - 🎓 Estou no último ano de Ciência da Computação na UEM
 - 📚 Possuo nível avançado de inglês
 - 🎨 Me virando pra aprender a arte da programação
-- 
+
 <!--
 **Vitor-Padovani/Vitor-Padovani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
